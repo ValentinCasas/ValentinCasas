@@ -1,8 +1,3 @@
-<style>
-  img {
-    margin-right: 20px;
-  }
-</style>
 
 <h1 align="center">¡Hola! Soy Valentin Casas 👋</h1>
 <p align="center">Soy un apasionado desarrollador de software con experiencia en tecnologías como C# con .NET, HTML, CSS, Bootstrap, JavaScript, Node.js, Sequelize, Pug/Jade, Express, jQuery, Ajax y Java para aplicaciones de escritorio y móviles. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mi habilidad en el desarrollo de software.</p>
