@@ -3,7 +3,8 @@
   <h3>Soy un desarrollador de software apasionado por crear aplicaciones web y móviles increíbles. Tengo experiencia en HTML, CSS, Bootstrap, JavaScript, Node.js, Sequelize, Pug/Jade, Express, jQuery, Ajax, C# con .NET y Java para aplicaciones de escritorio y móviles.</h3>
 </p>
 
-<p style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
@@ -15,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> 
 </p>
-
+</div>
 
 <p align="center">
   Aquí están algunos de mis proyectos:
