@@ -1,6 +1,6 @@
 <p align="center" style="margin: 20px 0;">
   <h1 align="center">¡Hola! Soy Valentin Casas 👋</h1>
- <h3 align="center">Hola, estudio desarrollo de software y me apasiona crear aplicaciones web. Cuento con experiencia en tecnologías como C# con .NET, HTML, CSS, Bootstrap, JavaScript, Node.js, Sequelize, Pug/Jade, Express, jQuery, Ajax y Java para aplicaciones de escritorio y móviles. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mi habilidad en el desarrollo de software.</h3> 
+ <h3 align="center">Estudio desarrollo de software y me apasiona crear aplicaciones web. Cuento con experiencia en tecnologías como C# con .NET, HTML, CSS, Bootstrap, JavaScript, Node.js, Sequelize, Pug/Jade, Express, jQuery, Ajax y Java para aplicaciones de escritorio y móviles. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mi habilidad en el desarrollo de software.</h3> 
 </p>
 
 <p align="center">
@@ -20,9 +20,8 @@
 
 ## Estadísticas de GitHub
 
-<p align="center>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ValentinCasas&theme=dark&locale=es)](https://git.io/streak-stats)
-<p>
+
 
 
 
