@@ -20,9 +20,11 @@
 
 ## Estadísticas de GitHub
 
+<p align="center>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ValentinCasas&theme=dark&locale=es)](https://git.io/streak-stats)
+<p>
 
-[![GitHub Profile Summary](https://github-profile-summary.com/default-profile-summary/profile-summary-card-output/github/ValentinCasas.svg)](https://github.com/tipsy/github-profile-summary)
+
 
 
 
