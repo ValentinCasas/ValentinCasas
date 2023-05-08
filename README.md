@@ -1,9 +1,9 @@
-<p align="center">
-  <h1>¡Hola! Soy Valentin Casas 👋</h1>
-  <h3>Soy un desarrollador de software apasionado por crear aplicaciones web y móviles increíbles. Tengo experiencia en HTML, CSS, Bootstrap, JavaScript, Node.js, Sequelize, Pug/Jade, Express, jQuery, Ajax, C# con .NET y Java para aplicaciones de escritorio y móviles.</h3>
+<p align="center" style="margin: 20px 0;">
+  <h1 align="center">¡Hola! Soy Valentin Casas 👋</h1>
+ <h3 align="center">Hola, estudio desarrollo de software y me apasiona crear aplicaciones web. Cuento con experiencia en tecnologías como C# con .NET, HTML, CSS, Bootstrap, JavaScript, Node.js, Sequelize, Pug/Jade, Express, jQuery, Ajax y Java para aplicaciones de escritorio y móviles. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mi habilidad en el desarrollo de software.</h3> 
 </p>
 
-<div style="display: flex; justify-content: space-between;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
@@ -14,16 +14,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> 
-</div>
-
-<p align="center">
-  Aquí están algunos de mis proyectos:
-  <br>
-  <br>
-  <a href="https://www.valentincasas.com">Mi sitio web personal</a> | 
-  <a href="https://github.com/ValentinCasas/habitos-app">Una aplicación móvil para rastrear hábitos diarios</a> | 
-  <a href="https://github.com/ValentinCasas/task-manager">Una aplicación web para administrar tareas y proyectos</a> 
 </p>
+
+
 
 ## Estadísticas de GitHub
 
