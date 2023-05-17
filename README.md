@@ -4,6 +4,7 @@
 
 
 <p align="center">
+  ![JavasCript](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg")
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" style="margin-right: 20px;"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right: 20px;"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 20px;"/> 
