@@ -1,9 +1,4 @@
 
-<h1 align="center">¡Hola! Soy Valentin Casas 👋</h1>
-<h2 align="center">Desarrollador FullStack</h1>
-<p align="center">Soy un desarrollador de software con experiencia en tecnologías como C# , HTML, CSS, Bootstrap, JavaScript, Node.js, Sequelize, Pug/Jade, Express, jQuery, Ajax y Java para aplicaciones de escritorio y móviles. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mi habilidad en el desarrollo de software.</p>
-
-
 <h2 align="center">Tecnologias</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
