@@ -34,18 +34,6 @@
 
 
 
-<h2 align="center">Estadísticas de GitHub</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ValentinCasas&theme=dark&locale=es" alt="Estadísticas de GitHub" />
-</p>
-
-
-<!-- LinkedIn -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-</p>
 
 
 
